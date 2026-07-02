@@ -1,7 +1,6 @@
 # Yugandhar-DevOps-Cloud-Engineer-Portfolio
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1e90ff,100:22d3ee&height=190&section=header&text=Yugandhar%20Ethamukkala&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Terraform%20%7C%20CI%2FCD&descSize=16&descAlignY=58" />
+type=waving&color=0:0f172a,45:1e90ff,100:22d3ee&height=190&section=header&text=Yugandhar%20Ethamukkala&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Terraform%20%7C%20CI%2FCD&descSize=16&descAlignY=58" />
 
 <br />
 
