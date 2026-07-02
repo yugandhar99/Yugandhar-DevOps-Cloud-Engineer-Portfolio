@@ -1,9 +1,5 @@
 # Yugandhar-DevOps-Cloud-Engineer-Portfolio
 
-type=waving&color=0:0f172a,45:1e90ff,100:22d3ee&height=190&section=header&text=Yugandhar%20Ethamukkala&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Terraform%20%7C%20CI%2FCD&descSize=16&descAlignY=58" />
-
-<br />
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Building+Reliable+Cloud-Native+Platforms;Automating+CI%2FCD+Pipelines+and+Infrastructure;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;GitOps+%7C+AIOps+%7C+Observability+%7C+Reliability" alt="Typing SVG" />
