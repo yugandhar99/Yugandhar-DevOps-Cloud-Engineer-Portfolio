@@ -3,17 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1e90ff,100:22d3ee&height=190&section=header&text=Yugandhar%20Ethamukkala&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Terraform%20%7C%20CI%2FCD&descSize=16&descAlignY=58" />
 
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-22d3ee?style=for-the-badge&logo=vercel&logoColor=white)](https://yugandhar-portfolio-psi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yugandhar-devops)
-[![GitHub](https://img.shields.io/badge/GitHub-yugandhar99-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yugandhar99)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugandharethamukkala1999@gmail.com)
-
-</div>
-
 <br />
 
 <div align="center">
