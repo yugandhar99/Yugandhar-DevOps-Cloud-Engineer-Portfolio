@@ -1,12 +1,32 @@
-# Yugandhar-DevOps-Cloud-Engineer-Portfolio
+
+</div>
+
+<h1 align="center">Yugandhar Ethamukkala</h1>
+
+<h3 align="center">
+Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Terraform | CI/CD | GitOps
+</h3>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Building+Reliable+Cloud-Native+Platforms;Automating+CI%2FCD+Pipelines+and+Infrastructure;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;GitOps+%7C+AIOps+%7C+Observability+%7C+Reliability" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=1000&lines=Cloud+%26+DevOps+Engineer;Automating+CI%2FCD+Pipelines+and+Infrastructure;Building+Reliable+Cloud-Native+Platforms;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;GitOps+%7C+AIOps+%7C+Observability+%7C+Reliability" alt="Typing SVG" />
+
+</div>
+
+
+
+<div align="center">
+
+### 🌐 Live Portfolio
+
+<a href="https://yugandhar-portfolio-psi.vercel.app">
+  <strong>🚀 Visit My Portfolio Website</strong>
+</a>
 
 </div>
 
 ---
+
 
 ## 👋 About Me
 
@@ -54,7 +74,7 @@ Key areas of impact:
 
 ### Cloud Platforms
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+<img src="https://skillicons.dev/icons?i=aws,azure" />
 
 ### DevOps & CI/CD
 
@@ -87,7 +107,7 @@ Key areas of impact:
 ## ☁️ Core Skills
 
 ```text
-Cloud Platforms        : AWS, Azure, GCP
+Cloud Platforms        : AWS, Azure
 AWS Services           : EC2, S3, IAM, VPC, EKS, ECS, RDS, Lambda, CloudWatch, SNS, KMS
 Containers             : Docker, Kubernetes, EKS, ECS, AKS, Helm
 Infrastructure as Code : Terraform, CloudFormation, Ansible
