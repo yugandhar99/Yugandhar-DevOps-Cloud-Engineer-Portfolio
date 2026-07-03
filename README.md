@@ -1,7 +1,7 @@
 
 </div>
 
-<h1 align="center">Yugandhar Etha mukkala</h1>
+<h1 align="center">Yugandhar Ethamukkala</h1>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=1000&lines=Cloud+%26+DevOps+Engineer;Automating+CI%2FCD+Pipelines+and+Infrastructure;Building+Reliable+Cloud-Native+Platforms;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;GitOps+%7C+AIOps+%7C+Observability+%7C+Reliability" alt="Typing SVG" />
