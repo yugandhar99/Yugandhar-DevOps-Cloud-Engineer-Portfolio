@@ -41,6 +41,7 @@ Key areas of impact:
 - Led CI/CD transformation for zero-downtime rollout of 10+ microservices
 - Built Terraform-based infrastructure standards across AWS services
 - Supported GitOps deployment workflows using Argo CD on AWS EKS
+- 
 - Improved observability using Prometheus, Datadog, CloudWatch, and AIOps-driven monitoring
 - Supported HIPAA/SOC2-aligned cloud environments with secure and compliant practices
 - Reduced MTTR using proactive monitoring, rollback strategies, and incident response automation
